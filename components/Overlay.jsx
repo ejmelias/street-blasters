@@ -4,9 +4,9 @@ export default function Overlay() {
             <div className="h-[100vh] snap-start">
                 <div className="pointer-events-none sticky top-0 inline-block max-w-[600px] p-[80px] text-gray-400 leading-6 text-sm tracking-wide">
                     <h1 className="pointer-events-none text-white text-5xl font-thin leading-none mb-1">
-                        Navigating the Spectrum for Tomorrow's Solutions
+                        Navigating the Spectrum for Tomorrow&apos;s Solutions
                     </h1>
-                    At StreetBlasters, we're all about pioneering harmonious convergence in a world of perpetual transformation. With a dynamic team of trend virtuosos and synergy navigators, we unravel the threads of possibilities to craft experiences that redefine the status quo. Embrace the enigma and join the journey.
+                    At StreetBlasters, we&apos;re all about pioneering harmonious convergence in a world of perpetual transformation. With a dynamic team of trend virtuosos and synergy navigators, we unravel the threads of possibilities to craft experiences that redefine the status quo. Embrace the enigma and join the journey.
                 </div>
             </div>
             <div className="h-[100vh] snap-start">
@@ -22,7 +22,7 @@ export default function Overlay() {
                     <h1 className="pointer-events-none text-white text-5xl font-thin leading-none mb-1">
                         Strategic Fusion Elevation
                     </h1>
-                    Elevate your brand's essence through our proprietary Strategic Fusion Elevation methodology. We orchestrate a symphony of calculated complexity, melding seemingly disparate elements into a harmonious crescendo of intrigue. From concept inception to final resonance, our virtuoso strategists will ensure your brand dances on the edge of familiarity and fascination.
+                    Elevate your brand&apos;s essence through our proprietary Strategic Fusion Elevation methodology. We orchestrate a symphony of calculated complexity, melding seemingly disparate elements into a harmonious crescendo of intrigue. From concept inception to final resonance, our virtuoso strategists will ensure your brand dances on the edge of familiarity and fascination.
                 </div>
             </div>
             <div className="h-[100vh]">
@@ -38,7 +38,7 @@ export default function Overlay() {
                     <h1 className="pointer-events-none text-white text-5xl font-thin leading-none mb-1">
                         Innovative Ambiguity Workshops
                     </h1>
-                    We're the architects of innovative ambiguity. Our workshops are designed to cultivate the art of calculated uncertainty. Our dynamic facilitators guide your team through structured exercises that foster novel perspectives, encouraging breakthroughs at the juncture of known and unknown. Embrace the challenge of corporate enigma and watch innovation flourish.
+                    We&apos;re the architects of innovative ambiguity. Our workshops are designed to cultivate the art of calculated uncertainty. Our dynamic facilitators guide your team through structured exercises that foster novel perspectives, encouraging breakthroughs at the juncture of known and unknown. Embrace the challenge of corporate enigma and watch innovation flourish.
                 </div>
             </div>
             <div className="h-[100vh]">
@@ -46,7 +46,7 @@ export default function Overlay() {
                     <h1 className="pointer-events-none text-white text-5xl font-thin leading-none mb-1">
                         Embark on a Journey of Strategic Discovery
                     </h1>
-                    Ready to explore the labyrinth of strategic enigma? Reach out to us via traditional channels of communication or immerse yourself in a virtual symposium of ambiguity and potential. Remember, the solutions you seek might just be disguised as the questions you've yet to ask. Embrace the intrigue and connect with us today.
+                    Ready to explore the labyrinth of strategic enigma? Reach out to us via traditional channels of communication or immerse yourself in a virtual symposium of ambiguity and potential. Remember, the solutions you seek might just be disguised as the questions you&apos;ve yet to ask. Embrace the intrigue and connect with us today.
                 </div>
             </div>
         </div>
